@@ -6,6 +6,6 @@
     Fast and expandable.
 
 Sources:
-    Voice recognition.
+    Voice recognition(Google for online and Vosk for Offline recognition).
     Voice synthesis.
     IA.
